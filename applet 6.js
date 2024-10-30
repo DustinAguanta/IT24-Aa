@@ -78,4 +78,5 @@ class TodoList {
         }
     }
     
+    document.addEventListener('DOMContentLoaded', () => new TodoList());
 
